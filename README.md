@@ -1,7 +1,7 @@
 # Hi there, I'm Michał Romak 👋
 
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=yourusername.MrBlaBlak)
-[![GitHub followers](https://img.shields.io/github/followers/yourusername?label=Follow&style=social)](https://github.com/MrBlaBlak)
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=MrBlaBlak.MrBlaBlak)
+[![GitHub followers](https://img.shields.io/github/followers/MrBlaBlak?label=Follow&style=social)](https://github.com/MrBlaBlak)
 
 ## 👨‍💻 About Me
 
