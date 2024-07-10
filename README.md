@@ -1,7 +1,7 @@
 # Hi there, I'm Michał Romak 👋
 
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=yourusername.yourusername)
-[![GitHub followers](https://img.shields.io/github/followers/yourusername?label=Follow&style=social)](https://github.com/yourusername)
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=yourusername.MrBlaBlak)
+[![GitHub followers](https://img.shields.io/github/followers/yourusername?label=Follow&style=social)](https://github.com/MrBlaBlak)
 
 ## 👨‍💻 About Me
 
@@ -30,12 +30,12 @@ I'm a passionate developer with a love for building impactful projects and learn
 
 ## 📊 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&hide_border=true)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=MrBlaBlak&show_icons=true&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrBlaBlak&layout=compact&hide_border=true)
 
 ## 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=yourusername&theme=onedark&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=MrBlaBlak&theme=onedark&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 📫 Connect with Me
 
