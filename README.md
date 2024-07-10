@@ -1,10 +1,6 @@
-# Hi there, I'm Michał Romak 👋
+# Hi there, I'm Michał Romak 
 
-## 👨‍💻 About Me
-
-I'm a passionate developer with a love for building impactful projects and learning new technologies.
-
-- 🔭 I’m currently working on **[Project Name](https://github.com/MrBlaBlak/Ranking_system_fullstack_nextjs)**
+- 🔭 I’m currently working on **[Ranking system for competetive fps shooters](https://github.com/MrBlaBlak/Ranking_system_fullstack_nextjs)**
 
 ## 🔧 Technologies & Tools
 
@@ -25,14 +21,6 @@ I'm a passionate developer with a love for building impactful projects and learn
 ![JUnit](https://img.shields.io/badge/-JUnit-333333?style=flat&logo=junit5)
 ![Mockito](https://img.shields.io/badge/-Mockito-333333?style=flat&logo=mockito)
 
-## 📊 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=MrBlaBlak&show_icons=true&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrBlaBlak&layout=compact&hide_border=true)
-
-## 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=MrBlaBlak&theme=onedark&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 📫 Connect with Me
 
